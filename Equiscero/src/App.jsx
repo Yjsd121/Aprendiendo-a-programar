@@ -2,28 +2,13 @@
 import { useState } from 'react'
 import confetti from "canvas-confetti"
 import './App.css'
+import { Square } from './Components/Square.jsx'
 const turn = {
   X: "X",
   O: "O"
 }
 
 
-const Square = ({ children, updateboard, index, isselected }) => {
-  console.log(isselected)
-
-  const ClasssName = `square ${isselected ? 'is-selected' : ''}`
-
-  const handleClick = () => {
-    updateboard(index)
-
-  }
-
-  return (
-    <div onClick={handleClick} className={ClasssName}>
-      {children}
-    </div>
-  )
-}
 function App() {
 
   const [board, setboard] = useState(Array(9).fill(null))
@@ -106,7 +91,8 @@ function App() {
               )
             })
           }
-        </section>
+        </section>]
+
         <section className='turn'>
           <Square isselected={turns === turn.X}>
             {turn.X}
@@ -131,7 +117,9 @@ function App() {
                 </h2>
 
                 <header className='win'>
-                  {winner && <Square>{turns == turn.O ? turn.X : turn.O}</Square>}
+                  {winner && <Square>
+                    {turns == turn.O ? turn.X : turn.O}
+                  </Square>}
                 </header>
                 <button onClick={clear}>
                   Restart
