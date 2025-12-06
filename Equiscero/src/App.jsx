@@ -13,14 +13,20 @@ const turn = {
 
 function App() {
 
-  const [board, setboard] = useState(Array(9).fill(null))
+  const [board, setboard] = useState(() => {
+    const boardls = window.localStorage.getItem('board')
+    return boardls ? JSON.parse(boardls) : Array(9).fill(null)
+  })
 
-  const [turns, actualizar] = useState(turn.X)
+  const [turns, actualizar] = useState(() => {
+    const turnls = window.localStorage.getItem("turn")
+    return turnls ? turnls : turn.X
+  })
 
   const [winner, setwinner] = useState(null)
 
 
-  
+
   const updateboard = (index) => {
 
 
@@ -33,6 +39,8 @@ function App() {
     const newturn = turns === turn.X ? turn.O : turn.X
     actualizar(newturn)
 
+    window.localStorage.setItem('board', JSON.stringify(newboard))
+    window.localStorage.setItem('turn', newturn)
     const check = Revisar(newboard)
     if (check === true) {
       confetti()
@@ -42,9 +50,14 @@ function App() {
   }
 
   const clear = () => {
+
     setboard(Array(9).fill(null))
+    window.localStorage.setItem("board", JSON.stringify(Array(9).fill(null)))
+
     actualizar(turn.X)
+    window.localStorage.setItem("turn", turn.X)
     setwinner(null)
+
   }
   return (
     <>
@@ -94,6 +107,8 @@ function App() {
                   {winner && <Square>
                     {turns == turn.O ? turn.X : turn.O}
                   </Square>}
+
+
                 </header>
                 <button onClick={clear}>
                   Restart
