@@ -52,10 +52,10 @@ function App() {
   const clear = () => {
 
     setboard(Array(9).fill(null))
-    window.localStorage.setItem("board", JSON.stringify(Array(9).fill(null)))
+    window.localStorage.removeItem("board")
 
     actualizar(turn.X)
-    window.localStorage.setItem("turn", turn.X)
+    window.localStorage.removeItem("turn")  
     setwinner(null)
 
   }

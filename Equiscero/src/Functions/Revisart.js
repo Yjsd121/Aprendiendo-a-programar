@@ -13,7 +13,7 @@ const options=[
 
 export function Revisar(newboard) {
 
-    const i = 0
+    let incre = 0
 
     for (let i =0; i < options.length; i++) {
         const [a,b,c] = options[i]
@@ -24,10 +24,11 @@ export function Revisar(newboard) {
     
     for (let i = 0; i < newboard.length; i++) {
         if (newboard[i]) {
-            i++
+            incre+=1
         }
     }
-    if (i === 9) {
+    console.log(incre)
+    if (incre === 9) {
         return false
     }
     return null
