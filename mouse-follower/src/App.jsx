@@ -20,6 +20,10 @@ function App() {
       window.removeEventListener('pointermove', mausemove)
     }
 
+
+    //esta fucion solo se ejecuta cuado el componenete se desmonta
+    //tambien solo se ejecura cuando el componente se vuelve a rederizar
+    // y cuadno se inicializa el componente 
     return () => {
       window.removeEventListener('pointermove', mausemove)
     }
