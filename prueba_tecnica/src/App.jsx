@@ -1,22 +1,22 @@
 
 import { useEffect, useState } from "react"
+// let word = "Hello"
+// const END_POINT_IMG=`https://cataas.com/cat/says/${word}?fontSize=50&fontColor=red&json=true`
+const END_POINT_RANDON = 'https://catfact.ninja/fact'
+
 
 export function App() {
-
     const [Hecho, setHecho] = useState("Lorem ipsum cat fact whatever ")
-
+    const [Estadobtn, setEstadobtn] = useState(false)
     useEffect(() => {
-        const url = 'https://catfact.ninja/fact'
-        fetch(url)
-            .then(res => {
-                res.json()
+        fetch(END_POINT_RANDON)
+            .then(res => (res.json()))
+            .then(data => setHecho(data.fact))
 
-            })
-            .then(data => (setHecho(data.fact)))
+    }, [Estadobtn])
 
-    }, [])
     function SearchFact() {
-
+        setEstadobtn(!Estadobtn)
     }
     return (
         <>
