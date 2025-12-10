@@ -1,0 +1,24 @@
+
+
+img{
+    height: 500px;
+    width: 400px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Information{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+@media screen and (width<=800px){
+    .Information{
+        flex-direction: column;
+    }
+}
