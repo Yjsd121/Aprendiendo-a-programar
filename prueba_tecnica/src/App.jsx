@@ -1,8 +1,9 @@
 
 import { useEffect, useState } from "react"
 import './app.css'
+import { randon } from "./service/randon_service"
 //const END_POINT_IMG=`https://cataas.com/cat/says/${word}?fontSize=50&fontColor=red&json=true`
-const END_POINT_RANDON = 'https://catfact.ninja/fact'
+
 
 
 export function App() {
@@ -12,27 +13,22 @@ export function App() {
     const [Estadobtn, setEstadobtn] = useState(false)
 
     useEffect(() => {
-        fetch(END_POINT_RANDON)
-            .then(res => (res.json()))
-            .then((data) => { setHecho(data.fact) })
-
+        async function fetchRandon() {
+            const fact=await randon()
+            setHecho(fact)
+        }
+        fetchRandon()
     }, [Estadobtn])
 
     useEffect(() => {
-        if(Hecho==null){return}
-        const word = Getfirstword(Hecho)
+        if (Hecho == null) { return }
+        const word = Hecho.split(' ', 1)
 
         fetch(`https://cataas.com/cat/says/${word}?fontSize=50&fontColor=red&json=true`)
             .then(res => res.json())
             .then(data => setImg(data.url))
-    },[Hecho])
+    }, [Hecho])
 
-    function Getfirstword(value) {
-        const arr = value.split(' ')
-        let word = arr[0]
-        return word
-
-    }
 
     function SearchFact() {
         setEstadobtn(!Estadobtn)
