@@ -16,9 +16,10 @@
 .Bar-nav a {
     font-size: 2rem;
     padding: 0 10px;
-    
+
 }
 
 .Bar-nav a:hover {
     cursor: pointer;
 }
+

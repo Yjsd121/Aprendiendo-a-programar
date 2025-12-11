@@ -14,6 +14,7 @@ function App() {
     <>
       <Bar_barr Open={OpenModal} />
       {Modal && <Reservation/>}
+      
     </>
   )
 }
