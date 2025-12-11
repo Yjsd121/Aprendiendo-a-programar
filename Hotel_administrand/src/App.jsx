@@ -4,17 +4,34 @@ import { Reservation } from "./components/Reservation_Modal/Reservation_modal"
 
 import './App.css'
 
+
 function App() {
   const [Modal, setmodal] = useState(false)
   async function OpenModal() {
     setmodal(!Modal)
   }
 
+  
   return (
     <>
       <Bar_barr Open={OpenModal} />
-      {Modal && <Reservation/>}
-      
+      {Modal && <Reservation />}
+
+      <section className="Dashboard-containers">
+        <h1>Dashboard</h1>
+
+        <div className="Numbers">
+            <label>
+              Rooms-Free
+            </label>
+            <label>
+              Rooms-no-free
+            </label>
+            <label>
+              guests
+            </label>
+        </div>
+      </section>
     </>
   )
 }

@@ -1,5 +1,6 @@
 import "./navegation_bar.css"
 
+import menu from "../../assets/menu.svg"
 
 export function Bar_barr({Open}) {
     
@@ -8,7 +9,7 @@ export function Bar_barr({Open}) {
             <nav className="Bar-nav">
                 <div className="items">
                     <a>
-                        Logo
+                        <img src={menu} alt="" />
                     </a>
                 </div>
                 <div className="items" >
@@ -18,7 +19,6 @@ export function Bar_barr({Open}) {
                 </div>
             </nav>
 
-            
         </section>
     )
 }
