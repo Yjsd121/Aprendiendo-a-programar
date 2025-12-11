@@ -1,5 +1,7 @@
-import { Bar_barr } from './components/Navegation_Bar/navegation_bar'
 import { useState } from "react"
+import { Bar_barr } from './components/Navegation_Bar/navegation_bar'
+import { Reservation } from "./components/Reservation_Modal/Reservation_modal"
+
 import './App.css'
 
 function App() {
@@ -11,8 +13,7 @@ function App() {
   return (
     <>
       <Bar_barr Open={OpenModal} />
-      {Modal && <div className="Modal">
-        Hola mundo</div>}
+      {Modal && <Reservation/>}
     </>
   )
 }
