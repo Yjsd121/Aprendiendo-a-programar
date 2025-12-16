@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 
- export function useCatimg({ Hecho }) {
+export function useCatimg({ Hecho }) {
     const [Img, setImg] = useState(null)
 
     useEffect(() => {

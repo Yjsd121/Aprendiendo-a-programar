@@ -1,27 +1,16 @@
 
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import './app.css'
-import { randon } from "./service/randon_service"
-import { useCatimg } from "./components/Customhooks"
-
+import { useCatFacts } from "./components/CatFact"
+import { useCatimg } from "./components/CatImg"
 
 
 export function App() {
 
-    const [Hecho, setHecho] = useState(null)
     const [Estadobtn, setEstadobtn] = useState(false)
 
-    useEffect(() => {
-        async function fetchRandon() {
-            const fact = await randon()
-            setHecho(fact)
-
-        }
-        fetchRandon()
-    }, [Estadobtn])
-
-    const Img=useCatimg({Hecho})
-    
+    const Hecho = useCatFacts({ Estadobtn })
+    const Img = useCatimg({ Hecho })
 
 
     function SearchFact() {
