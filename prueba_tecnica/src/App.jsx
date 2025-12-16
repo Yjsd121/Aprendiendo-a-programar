@@ -2,32 +2,26 @@
 import { useEffect, useState } from "react"
 import './app.css'
 import { randon } from "./service/randon_service"
-//const END_POINT_IMG=`https://cataas.com/cat/says/${word}?fontSize=50&fontColor=red&json=true`
+import { useCatimg } from "./components/Customhooks"
 
 
 
 export function App() {
 
     const [Hecho, setHecho] = useState(null)
-    const [Img, setImg] = useState(null)
     const [Estadobtn, setEstadobtn] = useState(false)
 
     useEffect(() => {
         async function fetchRandon() {
-            const fact=await randon()
+            const fact = await randon()
             setHecho(fact)
+
         }
         fetchRandon()
     }, [Estadobtn])
 
-    useEffect(() => {
-        if (Hecho == null) { return }
-        const word = Hecho.split(' ', 1)
-
-        fetch(`https://cataas.com/cat/says/${word}?fontSize=50&fontColor=red&json=true`)
-            .then(res => res.json())
-            .then(data => setImg(data.url))
-    }, [Hecho])
+    const Img=useCatimg({Hecho})
+    
 
 
     function SearchFact() {
