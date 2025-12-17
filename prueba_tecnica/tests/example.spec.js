@@ -4,17 +4,17 @@ import { test, expect } from '@playwright/test';
 const LOCALHOST_URL = 'http://localhost:5173/'
 
 test('app Shows a random fact and img  ', async ({ page }) => {
-  await page.goto('https://playwright.dev/');
+  await page.goto(LOCALHOST_URL);
 
   // Expect a title "to contain" a substring.
-  const text = await page.getByRole('paragraph')
-  const img = await page.getByRole('img')
+  const text = page.getByTestId('fact')
+  const img = page.getByTestId('fact-img')
 
   const textContent = await text.textContent()
-  const ImgSorce = await img.getAttribute('src')
+  const imgSource = await img.getAttribute('src')
 
   await expect(textContent?.length).toBeGreaterThan(0)
-  await expect( ImgSorce).toBeTruthy()
+  await expect(imgSource).toBeTruthy()
 });
 
 

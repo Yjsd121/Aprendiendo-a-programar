@@ -24,8 +24,8 @@ export function App() {
                 Randon
             </button>
             <div className="Information">
-                {Hecho && <p>{Hecho}</p>}
-                {Img && <img src={Img} alt="Image estracted by Api"></img>}
+                {Hecho && <p data-testid= "fact" >{Hecho}</p>}
+                {Img && <img data-testid= "fact-img" src={Img} alt="Image estracted by Api"></img>}
             </div>
 
         </main>
