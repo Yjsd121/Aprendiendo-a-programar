@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "How to Train Your Dragon",
+            "Year": "2010",
+            "imdbID": "tt0892769",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon 2",
+            "Year": "2014",
+            "imdbID": "tt1646971",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon: The Hidden World",
+            "Year": "2019",
+            "imdbID": "tt2386490",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon",
+            "Year": "2025",
+            "imdbID": "tt26743210",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon: Homecoming",
+            "Year": "2019",
+            "imdbID": "tt11112140",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NjRjNjEtMWRlMS00NTA3LTk5NzUtNDE0NjVkOTFlYmM2XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dreamworks How to Train Your Dragon Legends",
+            "Year": "2010",
+            "imdbID": "tt2542490",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjE5NDQwMl5BMl5BanBnXkFtZTgwMjI2NzA2MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon",
+            "Year": "2010",
+            "imdbID": "tt1621800",
+            "Type": "game",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDY2NjI4NjkwN15BMl5BanBnXkFtZTcwNDA2NzcyMw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dreamworks How to Train Your Dragon Legends",
+            "Year": "2010–2013",
+            "imdbID": "tt6963396",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZWRiOTNiN2YtYWRmMi00NWMyLTgxOTAtOWU1MmM4ZGI3OWRlXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon: Snoggletog Log",
+            "Year": "2019",
+            "imdbID": "tt11409576",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjU5NmNiN2UtZDRmNi00NWY3LWFkYTItMDJhMzU4ZWFlZTVjXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "How to Train Your Dragon: Viking-Sized Cast",
+            "Year": "2010",
+            "imdbID": "tt7639966",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzY1M2RjZGEtMGI5NS00YmJjLWFiN2MtMDgxYTk1ODNkNzljXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "17",
+    "Response": "True"
+}
