@@ -27,6 +27,7 @@ export function App () {
     }
     if (Valor.startsWith(' ')) return
     SetSearch(Valor)
+    console.log(Valor)
   }
 
   return (
