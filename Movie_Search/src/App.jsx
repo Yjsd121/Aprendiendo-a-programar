@@ -1,14 +1,11 @@
 import './App.css'
 import { useRef, useState } from 'react'
-import { useMovies } from './Components/usemovies'
+import { useMovies } from './Components/usemovies.js'
 import { Movies } from './Components/Movies'
 
 // import wihtoutmovies from './mocks/without-result.json'
 
 export function App () {
-  // const API_KEY = process.env.APIKEY
-  // const url = `https://www.omdbapi.com/?apikey=${API_KEY}&S=avengers`
-
   const { movies } = useMovies()
   const inputRef = useRef()
   const [Search, SetSearch] = useState('')
@@ -19,15 +16,14 @@ export function App () {
     const value = inputRef.current.value
     console.log(value)
   }
+
   function SetSearchs (e) {
-    console.log(firstinput)
     const Valor = e.target.value
     if (firstinput.current) {
       firstinput.current = Valor === ''
     }
     if (Valor.startsWith(' ')) return
     SetSearch(Valor)
-    console.log(Valor)
   }
 
   return (
