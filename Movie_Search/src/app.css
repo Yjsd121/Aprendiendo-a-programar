@@ -3,6 +3,7 @@
     left: 50%;
     transform: translate(-50%);
     align-content: center;
+    
 }
 .main header{
     display: flex;
@@ -21,12 +22,12 @@
 }
 .Movies-container{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    width: 85vw;
+    grid-template-columns: repeat(auto-fit,minmax(200px, 1fr));
     gap: 1rem;
-
+    width: 85vw;
 }
 .item{
+    text-align: center;
     border-radius: 20px;
     display: flex;
     justify-content: center;
@@ -35,4 +36,8 @@
     padding: 0 20px; 
     background-color: #1a242f;
     box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.2);
+}
+.item h3,
+.item p{
+    margin-bottom: 0;
 }

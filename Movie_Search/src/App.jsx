@@ -2,19 +2,17 @@ import './App.css'
 import { useRef, useState } from 'react'
 import { useMovies } from './Components/usemovies.js'
 import { Movies } from './Components/Movies'
-
 // import wihtoutmovies from './mocks/without-result.json'
 
 export function App () {
-  const { movies } = useMovies()
   const inputRef = useRef()
-  const [Search, SetSearch] = useState('')
   const firstinput = useRef(true)
+  const [Search, SetSearch] = useState('')
+  const { movies, getMovies } = useMovies({ Search })
 
   function Getmovies (e) {
     e.preventDefault()
-    const value = inputRef.current.value
-    console.log(value)
+    getMovies()
   }
 
   function SetSearchs (e) {
@@ -22,8 +20,11 @@ export function App () {
     if (firstinput.current) {
       firstinput.current = Valor === ''
     }
+    if (Search === e.target.value) return
     if (Valor.startsWith(' ')) return
+
     SetSearch(Valor)
+    getMovies()
   }
 
   return (
