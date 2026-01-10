@@ -1,30 +1,33 @@
 import './App.css'
-import { useRef, useState } from 'react'
+import { useCallback, useRef, useState } from 'react'
 import { useMovies } from './Components/usemovies.js'
 import { Movies } from './Components/Movies'
+import debounce from 'just-debounce-it'
 // import wihtoutmovies from './mocks/without-result.json'
 
 export function App () {
+  const [sort, setSort] = useState(false)
   const inputRef = useRef()
-  const firstinput = useRef(true)
   const [Search, SetSearch] = useState('')
-  const { movies, getMovies } = useMovies({ Search })
+  const { movies, getMovies } = useMovies({ Search, sort })
+
+  const debounceMovies = useCallback(debounce(Search => {
+    console.log(Search)
+    getMovies({ Search })
+  }, 300), [])
 
   function Getmovies (e) {
     e.preventDefault()
-    getMovies()
+    getMovies({ Search })
   }
-
+  function handleSort () {
+    setSort(!sort)
+  }
   function SetSearchs (e) {
     const Valor = e.target.value
-    if (firstinput.current) {
-      firstinput.current = Valor === ''
-    }
-    if (Search === e.target.value) return
     if (Valor.startsWith(' ')) return
-
     SetSearch(Valor)
-    getMovies()
+    debounceMovies(Valor)
   }
 
   return (
@@ -33,6 +36,7 @@ export function App () {
         <label>Search movies</label>
         <form className='search' onSubmit={Getmovies}>
           <input onChange={SetSearchs} value={Search} ref={inputRef} placeholder='How to take your Dragon...' />
+          <input type='CheckBox' onChange={handleSort} checked={sort} />
           <button type='submit'>
             Search
           </button>
