@@ -1,0 +1,26 @@
+.Main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  gap: 1rem;
+}
+.Search-container input{
+  margin-right: 10px;
+  height: 20px;
+  border-radius: 10px;
+  outline:none;
+}
+.Products-container{
+  width: 90vw;
+  height: 90vh;
+  display: grid;
+  gap: 3rem;
+  overflow-y: auto;
+  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
+.Products-container li{
+  list-style: none;
+}
