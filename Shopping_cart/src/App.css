@@ -14,8 +14,8 @@
   outline:none;
 }
 .Products-container{
-  width: 90vw;
-  height: 90vh;
+  width: 90%;
+  height: 90%;
   display: grid;
   gap: 3rem;
   overflow-y: auto;
@@ -23,4 +23,8 @@
 }
 .Products-container li{
   list-style: none;
+  background-color: black;
+}
+.Products-container img {
+  width: 100%;
 }
