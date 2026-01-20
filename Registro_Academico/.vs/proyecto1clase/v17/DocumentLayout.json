@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|c:\\users\\yadet\\onedrive\\desktop\\universidad\\4toa\u00F1o2cuatri\\programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmcruso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmcruso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmasigatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmasigatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmasigatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmasigatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\properties\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\properties\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\tipocontratohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\tipocontratohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\carrerahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\carrerahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAlumno.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmAlumno.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAlumno.cs",
+              "RelativeToolTip": "proyecto1clase\\frmAlumno.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAiwFcBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:23:56.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmProfesor.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmProfesor.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmProfesor.cs",
+              "RelativeToolTip": "proyecto1clase\\frmProfesor.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAkwIoBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:45:07.284Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAlumno.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmAlumno.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1clase\\frmAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:06:36.964Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmProfesor.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmProfesor.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1clase\\frmProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:45:05.659Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCruso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmCruso.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmCruso.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmCruso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1clase\\frmCruso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:44:38.133Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAsigatura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAsigatura.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmAsigatura.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAsigatura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1clase\\frmAsigatura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:41:30.158Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Asignatura.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Asignatura.cs",
+              "RelativeToolTip": "proyecto1clase\\Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:48:18.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAsigatura.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAsigatura.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmAsigatura.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\frmAsigatura.cs",
+              "RelativeToolTip": "proyecto1clase\\frmAsigatura.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAA4wHsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:48:24.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Profesor.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Profesor.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Profesor.cs",
+              "RelativeToolTip": "proyecto1clase\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:55:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Form1.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Form1.cs",
+              "RelativeToolTip": "proyecto1clase\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawB0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:35:07.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Properties\\Persona.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Properties\\Persona.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Properties\\Persona.cs",
+              "RelativeToolTip": "proyecto1clase\\Properties\\Persona.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:42:12.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoContratoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\TipoContratoHelper.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\TipoContratoHelper.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\TipoContratoHelper.cs",
+              "RelativeToolTip": "proyecto1clase\\TipoContratoHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:02:12.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarreraHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\CarreraHelper.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\CarreraHelper.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\CarreraHelper.cs",
+              "RelativeToolTip": "proyecto1clase\\CarreraHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:01:23.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Program.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Program.cs",
+              "RelativeToolTip": "proyecto1clase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:30:36.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Curso.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Curso.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Curso.cs",
+              "RelativeToolTip": "proyecto1clase\\Curso.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:25:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Form1.cs",
+              "ToolTip": "C:\\Users\\yadet\\OneDrive\\Desktop\\universidad\\4TOA\u00D1O2CUATRI\\Programaci\u00F3n3\\proyecto1clase\\proyecto1clase\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto1clase\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:32:52.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

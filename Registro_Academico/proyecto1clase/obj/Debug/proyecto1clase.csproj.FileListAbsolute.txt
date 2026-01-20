@@ -1,0 +1,14 @@
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\bin\Debug\proyecto1clase.exe.config
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\bin\Debug\proyecto1clase.exe
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\bin\Debug\proyecto1clase.pdb
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.csproj.AssemblyReference.cache
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.Properties.Resources.resources
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.csproj.GenerateResource.cache
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.csproj.CoreCompileInputs.cache
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.exe
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.pdb
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.Form1.resources
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.frmAlumno.resources
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.Profesores.resources
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.frmAsigatura.resources
+C:\Users\yadet\OneDrive\Desktop\universidad\4TOAÑO2CUATRI\Programación3\proyecto1clase\proyecto1clase\obj\Debug\proyecto1clase.frmCruso.resources
