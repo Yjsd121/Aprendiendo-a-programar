@@ -4,7 +4,7 @@ export function ShowProducts ({ products }) {
   return (
     <section className='Products-container'>
       {
-        products.map(product => (
+        products.slice(0,11).map(product => (
           <li key={product.id}>
             <img src={product.thumbnail} />
             <div>

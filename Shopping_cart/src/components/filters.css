@@ -1,0 +1,10 @@
+.Header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50%;
+}
+.filters > div{
+  display: flex;
+  gap: 5rem;
+}

@@ -2,33 +2,26 @@ import { products } from './Mocks/products.json'
 import './App.css'
 import { ShowProducts } from './components/Products'
 import { useState } from 'react'
+import { Header } from './components/Header'
+import { useFilters } from './hooks/usefilters'
+import { Footer } from './components/Footer'
 
-export function App () {
-  const [Products, setProducts] = useState(products)
-  const [filters, setFilters] = useState({
-    Category: 'all',
-    price: 0
-  })
-  function Filter (Products) {
-    return (
-      Products.filter(products => {
-        return (
-          products.price >= filters.price && (
-            filters.Category === 'all' || products.category === filters.Category
-          )
-        )
-      })
-    )
-  }
+export function App() {
+  const [Products] = useState(products)
+  const { filters, Filter, setFilters } = useFilters()
+  const filtersproducts = Filter(Products)
+
   return (
     <main className='Main-container'>
-      <section>
-        <div className='Search-container'>
+      {/* <section>
+        {<div className='Search-container'>
           <input type='text' />
           <button> Search </button>
-        </div>
-      </section>
-      <ShowProducts products={Filter(Products)} />
+        </div>}
+      </section> */}
+      <Header setFilters={setFilters} />
+      <ShowProducts products={Filter(filtersproducts)} />
+      <Footer filters={filters} />
     </main>
   )
 }
