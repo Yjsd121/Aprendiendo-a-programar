@@ -5,10 +5,11 @@ import { useState } from 'react'
 import { Header } from './components/Header'
 import { useFilters } from './hooks/usefilters'
 import { Footer } from './components/Footer'
+import { Cart } from './components/cart'
 
 export function App() {
   const [Products] = useState(products)
-  const { filters, Filter, setFilters } = useFilters()
+  const { Filter } = useFilters()
   const filtersproducts = Filter(Products)
 
   return (
@@ -19,9 +20,10 @@ export function App() {
           <button> Search </button>
         </div>}
       </section> */}
-      <Header setFilters={setFilters} />
-      <ShowProducts products={Filter(filtersproducts)} />
-      <Footer filters={filters} />
+      <Header />
+      <Cart />
+      <ShowProducts products={filtersproducts} />
+      <Footer />
     </main>
   )
 }

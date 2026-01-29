@@ -1,20 +1,19 @@
-import { useState, useId } from 'react'
+import { useId } from 'react'
 import './filters.css'
+import { useFilters } from '../hooks/usefilters'
 
-export function Filters ({ setfilters }) {
-  const [price, setprice] = useState(0)
-
+export function Filters () {
+  const { filters, setFilters } = useFilters()
   const PriceIDhook = useId()
   const CategoryIdhook = useId()
 
   const handlePriceFilter = (e) => {
-    setprice(e.target.value)
-    setfilters(prevState => ({
+    setFilters(prevState => ({
       ...prevState, price: e.target.value
     }))
   }
   const handlecategoryfilter = (e) => {
-    setfilters(prevState => ({
+    setFilters(prevState => ({
       ...prevState, Category: e.target.value
     }))
   }
@@ -27,9 +26,10 @@ export function Filters ({ setfilters }) {
           id={PriceIDhook}
           min={0}
           max={2000}
+          value={filters.price}
           onChange={handlePriceFilter}
         />
-        <span> ${price}</span>
+        <span> ${filters.price}</span>
       </div>
       <div>
         <label htmlFor={CategoryIdhook}>Categoria: </label>
