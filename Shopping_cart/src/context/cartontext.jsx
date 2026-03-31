@@ -1,12 +1,20 @@
-import { createContext, useState } from 'react'
+import { createContext, useEffect, useState } from 'react'
 
 export const Cartcontext = createContext()
 
 export function CartProvider ({ children }) {
-  const [cart, setcart] = useState([])
+  const [cart, setcart] = useState(() => {
+    const storedcard = localStorage.getItem('cart')
+    return storedcard ? JSON.parse(storedcard) : []
+  })
+
+  useEffect(() => {
+    localStorage.setItem('cart', JSON.stringify(cart))
+  }, [cart])
 
   const addcart = product => {
     const productincart = cart.findIndex(item => item.id === product.id)
+    console.log(productincart)
 
     if (productincart >= 0) {
       const newcart = structuredClone(cart)
@@ -18,7 +26,7 @@ export function CartProvider ({ children }) {
       ...prevState,
       {
         ...product,
-        quuantity: 1
+        quantity: 1
       }
     ]))
   }

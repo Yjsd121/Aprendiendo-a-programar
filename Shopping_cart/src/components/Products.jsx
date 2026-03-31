@@ -16,7 +16,7 @@ export function ShowProducts ({ products }) {
           return (
             <li key={product.id}>
               <img src={product.thumbnail} />
-              <div>
+              <div className='Info'>
                 <strong>{product.title}</strong> - ${product.price}
               </div>
               <div>

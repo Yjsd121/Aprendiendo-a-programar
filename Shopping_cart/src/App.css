@@ -19,11 +19,21 @@
   display: grid;
   gap: 3rem;
   overflow-y: auto;
-  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+  scrollbar-width: none;
+  grid-template-columns: repeat(auto-fit,minmax(200px,250px));
+  justify-content: center;
+  
 }
 .Products-container li{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   list-style: none;
   background-color: black;
+  gap: 1rem;
+  max-height: 450px;
+  padding: 20px;
+  border-radius: 20px;
 }
 .Products-container img {
   width: 100%;
