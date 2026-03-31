@@ -6,24 +6,27 @@ import { Header } from './components/Header'
 import { useFilters } from './hooks/usefilters'
 import { Footer } from './components/Footer'
 import { Cart } from './components/cart'
+import { CartProvider } from './context/cartontext'
 
-export function App() {
+export function App () {
   const [Products] = useState(products)
   const { Filter } = useFilters()
   const filtersproducts = Filter(Products)
 
   return (
-    <main className='Main-container'>
-      {/* <section>
+    <CartProvider>
+      <main className='Main-container'>
+        {/* <section>
         {<div className='Search-container'>
           <input type='text' />
           <button> Search </button>
         </div>}
       </section> */}
-      <Header />
-      <Cart />
-      <ShowProducts products={filtersproducts} />
-      <Footer />
-    </main>
+        <Header />
+        <Cart />
+        <ShowProducts products={filtersproducts} />
+        <Footer />
+      </main>
+    </CartProvider>
   )
 }

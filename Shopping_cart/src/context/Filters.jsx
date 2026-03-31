@@ -11,6 +11,7 @@ export function FilterProvider ({ children }) {
     Category: 'all',
     price: 0
   })
+
   return (
     <Filterscontext.Provider value={{
       filters, setFilters

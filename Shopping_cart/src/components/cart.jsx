@@ -24,6 +24,7 @@ export function Cart () {
               <small>
                 Qty:1
               </small>
+              <button>+</button>
             </footer>
           </li>
         </ul>
