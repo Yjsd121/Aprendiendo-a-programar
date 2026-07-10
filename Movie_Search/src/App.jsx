@@ -3,7 +3,7 @@ import { useCallback, useRef, useState } from 'react'
 import { useMovies } from './Components/usemovies.js'
 import { Movies } from './Components/Movies'
 import debounce from 'just-debounce-it'
-// import wihtoutmovies from './mocks/without-result.json'
+
 
 export function App () {
   const [sort, setSort] = useState(false)

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|c:\\users\\yadet\\desktop\\ceroacien\\curso_react\\proyects\\registro_academico\\proyecto1clase\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|c:\\users\\yadet\\desktop\\ceroacien\\curso_react\\proyects\\registro_academico\\proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -31,11 +31,11 @@
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|c:\\users\\yadet\\desktop\\ceroacien\\curso_react\\proyects\\registro_academico\\proyecto1clase\\frmprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmprofesor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|c:\\users\\yadet\\desktop\\ceroacien\\curso_react\\proyects\\registro_academico\\proyecto1clase\\frmprofesor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\frmprofesor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
@@ -43,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|c:\\users\\yadet\\desktop\\ceroacien\\curso_react\\proyects\\registro_academico\\proyecto1clase\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22C35DB-E21D-426F-A8C2-817BF8C14BD3}|proyecto1clase\\proyecto1clase.csproj|solutionrelative:proyecto1clase\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,8 +86,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 243,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmProfesor.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\frmProfesor.cs",
+              "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmProfesor.cs",
+              "RelativeToolTip": "proyecto1clase\\frmProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:01:14.911Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -97,7 +110,8 @@
               "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmProfesor.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyecto1clase\\frmProfesor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.611Z"
+              "WhenOpened": "2026-05-07T04:01:22.611Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -109,7 +123,8 @@
               "RelativeToolTip": "proyecto1clase\\Asignatura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.618Z"
+              "WhenOpened": "2026-05-07T04:01:22.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,7 +135,8 @@
               "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyecto1clase\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.644Z"
+              "WhenOpened": "2026-05-07T04:01:22.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -132,32 +148,8 @@
               "RelativeToolTip": "proyecto1clase\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\Curso.cs",
-              "RelativeDocumentMoniker": "proyecto1clase\\Curso.cs",
-              "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\Curso.cs",
-              "RelativeToolTip": "proyecto1clase\\Curso.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.642Z",
+              "WhenOpened": "2026-05-07T04:01:22.639Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmProfesor.cs",
-              "DocumentMoniker": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmProfesor.cs",
-              "RelativeDocumentMoniker": "proyecto1clase\\frmProfesor.cs",
-              "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmProfesor.cs",
-              "RelativeToolTip": "proyecto1clase\\frmProfesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwBAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:14.911Z"
             },
             {
               "$type": "Document",
@@ -168,7 +160,21 @@
               "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmAlumno.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyecto1clase\\frmAlumno.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.578Z"
+              "WhenOpened": "2026-05-07T04:01:22.578Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\Curso.cs",
+              "RelativeDocumentMoniker": "proyecto1clase\\Curso.cs",
+              "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\Curso.cs",
+              "RelativeToolTip": "proyecto1clase\\Curso.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:01:22.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,7 +186,8 @@
               "RelativeToolTip": "proyecto1clase\\frmProfesor.Designer.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAewA8CAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T04:22:53.981Z"
+              "WhenOpened": "2026-05-26T04:22:53.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +198,8 @@
               "ToolTip": "C:\\Users\\yadet\\Desktop\\ceroacien\\CURSO_REACT\\Proyects\\Registro_Academico\\proyecto1clase\\frmProfesor.resx",
               "RelativeToolTip": "proyecto1clase\\frmProfesor.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-05-26T04:28:59.69Z"
+              "WhenOpened": "2026-05-26T04:28:59.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +211,8 @@
               "RelativeToolTip": "proyecto1clase\\Alumno.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T04:28:45.866Z"
+              "WhenOpened": "2026-05-26T04:28:45.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,7 +224,8 @@
               "RelativeToolTip": "proyecto1clase\\frmAlumno.cs",
               "ViewState": "AgIAACIBAAAAAAAAAAAiwFcBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:14.789Z"
+              "WhenOpened": "2026-05-07T04:01:14.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -238,7 +248,8 @@
               "RelativeToolTip": "proyecto1clase\\Profesor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.625Z"
+              "WhenOpened": "2026-05-07T04:01:22.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -273,7 +284,8 @@
               "RelativeToolTip": "proyecto1clase\\Form1.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAawB0AAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T04:01:22.628Z"
+              "WhenOpened": "2026-05-07T04:01:22.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
